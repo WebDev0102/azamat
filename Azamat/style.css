@@ -1,0 +1,14 @@
+textarea{
+    width: 45%;
+}
+
+@media (max-width: 600px) {
+    #nimadr{
+    flex-direction: column;
+    }
+    #nimadr textarea{
+        width: 90%;
+        height: 300px;
+    }
+    
+}
